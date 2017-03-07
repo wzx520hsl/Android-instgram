@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="4474829256623"
+    token="-6799940407343864682"
+    verifier="R_CLASS_CHANGE" >
+
+    <task
+        name="javac"
+        duration="811" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="227" />
+    <task
+        name="verifier"
+        duration="45" />
+
+    <artifact
+        location="D:\app\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="D:\app\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="779930252219"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\app\Parse-Server-Starter-Project\ParseStarterProject\build\outputs\apk\ParseStarterProject-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="4474829256623"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="D:\app\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="D:\app\Parse-Server-Starter-Project\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
